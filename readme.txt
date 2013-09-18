@@ -1,0 +1,1 @@
+This is agent and device code for an electric imp to control a garage door.
